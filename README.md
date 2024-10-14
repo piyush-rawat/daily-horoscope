@@ -16,7 +16,7 @@ Welcome to the Daily Horoscope. This application allows users to explore their h
 
 ## Demo
 
-[https://](#)
+[https://daily-horoscope-eta.vercel.app](#)
 
 ## Installation
 
